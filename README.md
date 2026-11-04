@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Kareem Nasr — Growth Manager, Marketing Operations, Creative Strategy" width="100%"/>
+  <img src="banner.svg" alt="Kareem Nasr — Growth Manager, Marketing Operations, Creative Strategy" width="100%"/>
 </p>
 
 <p align="center">
