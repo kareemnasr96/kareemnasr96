@@ -51,11 +51,11 @@ I run the growth function day to day. That means owning the creative engine, man
 
 ```mermaid
 flowchart LR
-    A[🔍 Insights<br/>personas · reviews · data] --> B[📝 Brief<br/>angles · hooks · offers]
-    B --> C[🎬 Produce<br/>in-house · creators · UGC]
-    C --> D[🚀 Launch & Test<br/>structured creative tests]
-    D --> E[📈 Read Results<br/>CAC · CTR · hook rate]
-    E --> F[📚 Learnings Library<br/>what won & why]
+    A[🔍 Diagnose<br/>funnel · CAC · LTV · attribution] --> B[🎯 Prioritise<br/>opportunity sizing · roadmap]
+    B --> C[💰 Plan<br/>budget · channel mix · targets]
+    C --> D[🛠️ Build<br/>creative · landers · offers · partners]
+    D --> E[🧪 Launch & Test<br/>A/B · new channels · holdouts]
+    E --> F[📊 Measure & Scale<br/>blended CAC · reallocate budget]
     F --> A
     style A fill:#2C3E4C,color:#fff,stroke:#F2B33D
     style B fill:#2C3E4C,color:#fff,stroke:#F2B33D
@@ -71,10 +71,10 @@ flowchart LR
 |---|---|---|
 | ☀️ **Daily** | Desk triage & CAC tracker | Catch issues before they cost money |
 | 📅 **Weekly** | Creative sync · Creative production call · Acquisition pod · Partnerships pod | Align strategy, production and media |
-| 📅 **Weekly** | Automated creative results pull | Every ad scored and logged with its key learning |
+| 📅 **Weekly** | Automated channel & creative results pull | Every test scored and logged with its key learning |
 | 📨 **Weekly** | CEO update | One clear view of performance, risks and asks |
 | 📆 **Bi-weekly** | Performance review | Channel and creative deep-dive |
-| 🗂️ **Monthly** | Creative retro & next month's scripts | Win rate by angle, format and talent, fed into new briefs |
+| 🗂️ **Monthly** | Business review & creative retro | Channel mix, budget reallocation and next month's plan |
 
 ### 🛠️ Marketing ops systems I've built
 
@@ -196,4 +196,3 @@ gantt
 | **SAE Institute** | Assoc. Multimedia Design & Digital Marketing · 2020 | **Arabic** | Native |
 
 <p align="center"><sub>Open to senior marketing, growth and marketing-ops roles: Head of Growth · Marketing Director · Head of Marketing Operations</sub></p>
-
