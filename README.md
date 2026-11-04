@@ -196,3 +196,4 @@ gantt
 | **SAE Institute** | Assoc. Multimedia Design & Digital Marketing · 2020 | **Arabic** | Native |
 
 <p align="center"><sub>Open to senior marketing, growth and marketing-ops roles: Head of Growth · Marketing Director · Head of Marketing Operations</sub></p>
+
